@@ -21,12 +21,10 @@
 
 ## 🚀 快速开始
 
-1. **注册学习**：访问[香山官网](https://.com)注册并开始课程
+1. **注册学习**：访问[香山官网暂无](https://.com)注册并开始课程
 2. **发现问题**：在学习过程中发现文档问题？[报告文档问题]访问[Issues页面](https://github.com/XiangShanLab/xiangshan-course/issues)
 3. **完成作业**：完成"hello xiangshan"后，[提交你的成果]访问[Issues页面](https://github.com/XiangShanLab/xiangshan-course/issues)
 4. **参与贡献**：查看[贡献指南](CONTRIBUTING.md)
-
-
 
 ## 详细步骤说明
 
@@ -68,13 +66,12 @@
 
 | 节点 | 说明 | 相关链接 |
 |------|------|----------|
-| 官网注册 | 在香山官网注册学习账号 | [官网地址](https://xiangshanjp.com) |
+| 官网注册 | 在香山官网注册学习账号 | [官网地址暂无](https://.com) |
 | 开始学习 | 访问课程内容，按章节学习 | [课程文档](docs/zh-CN/) |
 | 提交文档问题 | 使用GitHub Issue报告文档问题 | [文档问题模板](.github/ISSUE_TEMPLATE/documentation-issue.yml) |
 | 提交作业 | 分享hello xiangshan完成截图 | [作业提交模板](.github/ISSUE_TEMPLATE/hello-xiangshan-submission.yml)
 
 ---
-
 
 ## 📄 许可证说明
 
