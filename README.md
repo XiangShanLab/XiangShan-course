@@ -21,10 +21,11 @@
 
 ## 🚀 快速开始
 
-1. **注册学习**：访问[香山官网](https://xxxxxx.com)注册并开始课程
-2. **发现问题**：在学习过程中发现文档问题？[报告文档问题](.github/ISSUE_TEMPLATE/documentation-issue.yml)
-3. **完成作业**：完成"hello xiangshan"后，[提交你的成果](.github/ISSUE_TEMPLATE/hello-xiangshan-submission.yml)
+1. **注册学习**：访问[香山官网](https://.com)注册并开始课程
+2. **发现问题**：在学习过程中发现文档问题？[报告文档问题]访问[Issues页面](https://github.com/XiangShanLab/xiangshan-course/issues)
+3. **完成作业**：完成"hello xiangshan"后，[提交你的成果]访问[Issues页面](https://github.com/XiangShanLab/xiangshan-course/issues)
 4. **参与贡献**：查看[贡献指南](CONTRIBUTING.md)
+
 
 
 ## 详细步骤说明
@@ -40,7 +41,7 @@
 如果在学习过程中发现任何问题：
 
 1. **识别问题类型**：文档错误、内容不清晰、链接失效、翻译问题等
-2. **前往GitHub**：点击文档页面的"报告问题"链接，或直接访问[Issues页面](https://github.com/XiangShanLab/xiangshan-course/issues)
+2. **前往GitHub**：直接访问[Issues页面](https://github.com/XiangShanLab/xiangshan-course/issues)
 3. **选择模板**：点击"New Issue"，选择"📚 文档问题报告"模板
 4. **填写信息**：
    - 您的身份（帮助我们优化内容）
