@@ -1,15 +1,32 @@
----
 name: "🎉 提交 hello xiangshan"
-about: 分享你的学习成果
-title: "[作业提交]"
-labels: "hello-xiangshan"
----
-
-**你的称呼**
-（可选）你希望我们怎么称呼你
-
-**截图**
-请将 hello xiangshan 的运行结果截图粘贴在这里。
-
-**学习心得（可选）**
-简单分享你的体会。
+description: "分享你的学习成果"
+title: "[作业提交]: "
+labels: ["hello-xiangshan"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        恭喜完成hello xiangshan任务！
+        
+        请填写以下信息来提交你的学习成果。
+        
+  - type: input
+    id: nickname
+    attributes:
+      label: "你的称呼"
+      description: "（可选）你希望我们怎么称呼你"
+      placeholder: "请输入你的称呼"
+      
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "截图"
+      description: "请将 hello xiangshan 的运行结果截图粘贴在这里。"
+      placeholder: "你可以拖拽图片到这里，或者粘贴图片链接。"
+      
+  - type: textarea
+    id: experience
+    attributes:
+      label: "学习心得（可选）"
+      description: "简单分享你的体会"
+      placeholder: "分享你的学习心得..."
