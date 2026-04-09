@@ -22,7 +22,7 @@ body:
     attributes:
       label: "您的称呼"
       description: "您希望在社区中显示的名称（昵称、姓名或 GitHub 用户名）"
-      placeholder: "例如：王豪 或 @wanghao"
+      placeholder: "例如：王豪 或 @HisionWang"
     validations:
       required: true
       
@@ -43,19 +43,11 @@ body:
     id: screenshot
     attributes:
       label: "任务完成截图"
-      description: "请上传 hello xiangshan 运行成功的完整截图（可直接拖拽图片到此区域）"
-      placeholder: "截图要求：显示完整的终端窗口，包含命令和输出结果"
+      description: "请上传 hello xiangshan 运行成功的完整截图"
+      placeholder: "（可直接拖拽图片到此区域）"
       render: bash
     validations:
       required: true
-      
-  - type: textarea
-    id: command-output
-    attributes:
-      label: "完整命令输出（可选但推荐）"
-      description: "复制粘贴完整的命令和输出结果，便于搜索和参考"
-      placeholder: "$ ./hello_xiangshan\nHello Xiangshan!\nVersion: 1.0\n..."
-      render: bash
       
   - type: textarea
     id: experience
@@ -81,6 +73,6 @@ body:
       value: |
         ---
         
-        **提交后，您的作业将在 3 个工作日内审核。审核通过后，将展示在社区成果中。**
+        **感谢您的参与！您的每一步都是对开源硬件教育的贡献！ 🌟**
         
-        感谢您的参与！您的每一步都是对开源硬件教育的贡献！ 🌟
+        
