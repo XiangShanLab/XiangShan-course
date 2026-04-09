@@ -1,32 +1,86 @@
-name: "🎉 提交 hello xiangshan"
-description: "分享你的学习成果"
-title: "[作业提交]: "
-labels: ["hello-xiangshan"]
+name: "🎉 提交作业：hello xiangshan"
+description: "提交您完成的 hello xiangshan 任务，分享学习成果"
+title: "[作业提交]："
+labels: ["hello-xiangshan", "submission"]
+assignees:
+  - "course-maintainers"  # 或指定具体用户名
 body:
   - type: markdown
     attributes:
       value: |
-        恭喜完成hello xiangshan任务！
+        恭喜完成 hello xiangshan 任务！🎉
         
-        请填写以下信息来提交你的学习成果。
+        请填写以下信息，分享您的学习成果：
+        - 您的成果将在社区中展示
+        - 有助于我们了解不同学习者的进展
+        - 为其他学习者提供参考
+        
+        ---
         
   - type: input
     id: nickname
     attributes:
-      label: "你的称呼"
-      description: "（可选）你希望我们怎么称呼你"
-      placeholder: "请输入你的称呼"
+      label: "您的称呼"
+      description: "您希望在社区中显示的名称（昵称、姓名或 GitHub 用户名）"
+      placeholder: "例如：王豪 或 @wanghao"
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: user-type
+    attributes:
+      label: "您的身份"
+      description: "帮助我们更好地为不同群体优化课程"
+      options:
+        - "开芯院内部员工"
+        - "合作企业/高校成员"
+        - "香山爱好者（个人学习者）"
+        - "其他"
+    validations:
+      required: true
       
   - type: textarea
     id: screenshot
     attributes:
-      label: "截图"
-      description: "请将 hello xiangshan 的运行结果截图粘贴在这里。"
-      placeholder: "你可以拖拽图片到这里，或者粘贴图片链接。"
+      label: "任务完成截图"
+      description: "请上传 hello xiangshan 运行成功的完整截图（可直接拖拽图片到此区域）"
+      placeholder: "截图要求：显示完整的终端窗口，包含命令和输出结果"
+      render: bash
+    validations:
+      required: true
+      
+  - type: textarea
+    id: command-output
+    attributes:
+      label: "完整命令输出（可选但推荐）"
+      description: "复制粘贴完整的命令和输出结果，便于搜索和参考"
+      placeholder: "$ ./hello_xiangshan\nHello Xiangshan!\nVersion: 1.0\n..."
+      render: bash
       
   - type: textarea
     id: experience
     attributes:
-      label: "学习心得（可选）"
-      description: "简单分享你的体会"
-      placeholder: "分享你的学习心得..."
+      label: "学习心得与反馈（可选）"
+      description: "分享您的学习体验、遇到的困难或对课程的建议"
+      placeholder: "这次学习中，我最大的收获是...\n我遇到的困难是...\n对课程的建议..."
+      
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: "确认事项"
+      description: "请确认以下事项"
+      options:
+        - label: "我确认截图和输出为我本人完成的学习成果"
+          required: true
+        - label: "我同意此提交将公开展示在香山课程社区中（昵称和截图）"
+          required: true
+        - label: "我同意开芯院在课程改进中使用我的匿名化反馈（可选）"
+          
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        
+        **提交后，您的作业将在 3 个工作日内审核。审核通过后，将展示在社区成果中。**
+        
+        感谢您的参与！您的每一步都是对开源硬件教育的贡献！ 🌟

@@ -21,7 +21,7 @@
 
 ## 🚀 快速开始
 
-1. **注册学习**：访问[香山官网暂无](https://.com)注册并开始课程
+1. **注册学习**：访问[香山官网（暂无）](https://.com)注册并开始课程
 2. **发现问题**：在学习过程中发现文档问题？[报告文档问题]访问[Issues页面](https://github.com/XiangShanLab/xiangshan-course/issues)
 3. **完成作业**：完成"hello xiangshan"后，[提交你的成果]访问[Issues页面](https://github.com/XiangShanLab/xiangshan-course/issues)
 4. **参与贡献**：查看[贡献指南](CONTRIBUTING.md)
@@ -50,16 +50,19 @@
 
 ### 第三步：完成作业与分享
 
-完成"hello xiangshan"任务后：
+目前任务开通的任务：完成"hello xiangshan"任务；
 
-1. **运行并截图**：确保截图包含完整的运行结果
-2. **前往GitHub**：访问[Issues页面](https://github.com/XiangShanLab/xiangshan-course/issues)
-3. **选择模板**：点击"New Issue"，选择"🎉 提交 hello xiangshan"模板
-4. **填写信息**：
-   - 展示名称（您希望在社区中显示的名称）
-   - 您的身份和层次
-   - 上传截图
-   - 分享学习心得（可选但欢迎）
+1. **阅读课程资料并实操**：访问课程页面：[docs/zh-CN/01-香山开发环境操作.md](docs/zh-CN/01-香山开发环境操作.md)
+2. **运行并截图**：确保截图包含完整的运行结果
+3. **前往GitHub**：访问[Issues页面](https://github.com/XiangShanLab/xiangshan-course/issues)
+4. **选择模板**：点击"New Issue"，选择"🎉 提交 hello xiangshan"模板
+5. **填写信息**：
+
+- 展示名称（您希望在社区中显示的名称）
+- 您的身份和层次
+- 上传截图
+- 分享学习心得（可选但欢迎）
+
 5. **提交Issue**：点击"Submit new issue"，您的成果将在社区展示
 
 ## 各节点说明
