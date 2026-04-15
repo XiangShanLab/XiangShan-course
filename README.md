@@ -19,20 +19,24 @@
 - [English Documentation](docs/en/) - Licensed under CC BY-NC 4.0
 - [实验代码](labs/) - 使用 Apache License 2.0
 
-## 🚀 快速开始
 
-1. **注册学习**：访问[香山官网（暂无）](https://.com)注册并开始课程
-2. **发现问题**：在学习过程中发现文档问题？[报告文档问题]访问[Issues页面](https://github.com/XiangShanLab/xiangshan-course/issues)
-3. **完成作业**：完成"hello xiangshan"后，[提交你的成果]访问[Issues页面](https://github.com/XiangShanLab/xiangshan-course/issues)
-4. **参与贡献**：查看[贡献指南](CONTRIBUTING.md)
+## 🚀 详细学习步骤说明
 
-## 详细步骤说明
+> **Note**  
+> 本课程目前处于**内部测试阶段**。  
+> 已开放的课程内容仅包括“hello xiangshan”基础任务。  
+> 欢迎开芯院员工及面试者参与测试学习，如发现任何问题（文档错误、技术疑惑或流程建议），请随时通过 [GitHub Issues](https://github.com/XiangShanLab/xiangshan-course/issues) 反馈。
 
 ### 第一步：注册与学习
 
 1. **访问官网**：[暂无](https://.com)
 2. **注册账号**：点击注册按钮，填写必要信息
 3. **开始学习**：登录后进入课程页面，从第一章开始学习
+
+> **Note**  
+> 本课程的完整目录与文档将最终发布在**香山官方网站**。  
+> 当前网站处于开发阶段，如需学习"hello xiangshan"基础任务，请先访问：  
+> [docs/zh-CN/01-香山开发环境操作/01-香山开发环境总述.md](docs/zh-CN/01-香山开发环境操作/01-香山开发环境总述.md)
 
 ### 第二步：问题反馈（可选但重要）
 
@@ -48,7 +52,7 @@
    - 详细描述和修改建议
 5. **提交Issue**：点击"Submit new issue"，等待团队处理
 
-### 第三步：完成作业与分享的初体验
+### 第三步：完成作业与分享的初体验（针对于测试阶段）
 
 目前任务开通的任务：完成"hello xiangshan"任务；
 
@@ -64,6 +68,7 @@
 - 分享学习心得（可选但欢迎）
 
 5. **提交Issue**：点击"Submit new issue"，您的成果将在社区展示
+
 
 ## 各节点说明
 

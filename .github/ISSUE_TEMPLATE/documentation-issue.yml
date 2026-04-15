@@ -1,7 +1,7 @@
 name: "📚 报告文档问题"
 description: "报告文档中的错误或不清晰内容"
 title: "[文档问题]："
-labels: ["documentation"]
+labels: ["documentation","bug"]
 body:
   - type: markdown
     attributes:
