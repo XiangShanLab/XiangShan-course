@@ -2,6 +2,8 @@
 
 > Xiangshan Processor Learning Course
 
+[中文版请访问这里](./README.md)
+
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE-CODE)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/Docs%20License-CC_BY--NC_4.0-lightgrey.svg)](docs/LICENSE)
 

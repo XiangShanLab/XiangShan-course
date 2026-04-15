@@ -1,6 +1,8 @@
-# 香山处理器学习课程
+# 香山处理器学习课程 
 
 > Xiangshan Processor Learning Course
+
+[English Version Available Here](./README_en.md)
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE-CODE)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/Docs%20License-CC_BY--NC_4.0-lightgrey.svg)](docs/LICENSE)
