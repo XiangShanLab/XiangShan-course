@@ -7,9 +7,9 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE-CODE)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/Docs%20License-CC_BY--NC_4.0-lightgrey.svg)](docs/LICENSE)
 
-Welcome to the official learning platform for the Xiangshan Processor! This repository contains the Xiangshan Processor series course documentation published by OpenXinyuan, serving learners at three levels:
+Welcome to the official learning platform for the Xiangshan Processor! This repository contains the Xiangshan Processor series course documentation published by Beijing Institute of Open Source Chip, serving learners at three levels:
 
-1. 🏢 New employee training at OpenXinyuan
+1. 🏢 New employee training at Beijing Institute of Open Source Chip
 2. 🎓 Members of partner enterprises/universities
 3. ❤️ Individual Xiangshan enthusiasts
 
@@ -26,7 +26,7 @@ Ultimate Goal: Pass the **Xiangshan Certification** through systematic learning.
 > **Note**  
 > This course is currently in the **internal testing phase**.  
 > The only content currently available is the basic "hello xiangshan" task.  
-> OpenXinyuan employees and interviewees are welcome to participate in testing and learning. If you encounter any issues (documentation errors, technical questions, or process suggestions), please provide feedback via [GitHub Issues](https://github.com/XiangShanLab/xiangshan-course/issues).
+> Beijing Institute of Open Source Chip employees and interviewees are welcome to participate in testing and learning. If you encounter any issues (documentation errors, technical questions, or process suggestions), please provide feedback via [GitHub Issues](https://github.com/XiangShanLab/xiangshan-course/issues).
 
 ### Step 1: Registration and Learning
 
@@ -89,7 +89,7 @@ This repository contains different types of content under different open-source 
 | Experiment Code | `labs/` | Apache 2.0 | ✅ Allowed |
 | Certification Exams | Not Public | Reserved Ownership | Requires Authorization |
 
-**Important**: Providing paid training, certification, or examination services based on the content of this course requires explicit authorization from OpenXinyuan.
+**Important**: Providing paid training, certification, or examination services based on the content of this course requires explicit authorization from Beijing Institute of Open Source Chip.
 
 ## 🤝 Contact Us
 
