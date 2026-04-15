@@ -1,7 +1,7 @@
 name: "🎉 提交作业：hello xiangshan"
 description: "提交您完成的 hello xiangshan 任务，分享学习成果"
 title: "[作业提交]："
-labels: ["hello-xiangshan", "submission"]
+labels: ["hello-xiangshan", "submission" , "showcase"]
 assignees:
   - "course-maintainers"  # 或指定具体用户名
 body:
