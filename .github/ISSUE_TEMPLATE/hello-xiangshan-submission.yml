@@ -40,14 +40,10 @@ body:
       required: true
       
   - type: textarea
-    id: screenshot
+    id: screenshow
     attributes:
       label: "任务完成截图"
-      description: "请上传 hello xiangshan 运行成功的完整截图"
-      placeholder: "（可直接拖拽图片到此区域）"
-      render: bash
-    validations:
-      required: true
+      description: "请上传 hello xiangshan 运行成功的完整截图或相关文件"
       
   - type: textarea
     id: experience
